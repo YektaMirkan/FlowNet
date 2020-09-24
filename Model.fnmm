@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root IsActive="True" GridType="False">
+  <DesignerItems>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Fluid_Boundary.PressureBoundary</ItemType>
+      <Left>257.73360764008561</Left>
+      <Top>188.43398017177981</Top>
+      <Width>101.6336</Width>
+      <Height>69.333360000000013</Height>
+      <ID>ce3bfc9c-224c-4123-ba6c-1e4437a421b2</ID>
+      <zIndex>9</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Fluid_Boundary.Mass_Flow_Reservoir.MassFlowSink</ItemType>
+      <Left>781.83800764008549</Left>
+      <Top>207.19816460212459</Top>
+      <Width>97.4248</Width>
+      <Height>34.183440000000004</Height>
+      <ID>b2f0b4f9-2cf1-499e-a2b3-f948f8dc6eff</ID>
+      <zIndex>10</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Conduits.Pipe.Pipe</ItemType>
+      <Left>502.33580764008559</Left>
+      <Top>181.43398017177975</Top>
+      <Width>136.5336</Width>
+      <Height>37.33336</Height>
+      <ID>8ec7b761-d163-48f6-a5e7-a6db4b1e3cde</ID>
+      <zIndex>11</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Fluid_Boundary.PressureBoundary</ItemType>
+      <Left>257.73360764008561</Left>
+      <Top>324.43398017177987</Top>
+      <Width>101.6336</Width>
+      <Height>69.333360000000013</Height>
+      <ID>11ec4b15-38b8-4b3e-89c8-69bb9eacf5ba</ID>
+      <zIndex>18</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Fluid_Boundary.Mass_Flow_Reservoir.MassFlowSink</ItemType>
+      <Left>781.83800764008549</Left>
+      <Top>343.19816460212462</Top>
+      <Width>97.4248</Width>
+      <Height>34.183440000000004</Height>
+      <ID>ab46438e-5ba0-424d-b0e2-9bb1834b8bfd</ID>
+      <zIndex>19</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Conduits.Pipe.Pipe</ItemType>
+      <Left>509.00247430675245</Left>
+      <Top>317.43398017177975</Top>
+      <Width>136.5336</Width>
+      <Height>37.33336</Height>
+      <ID>527a9504-cb65-4d94-9a11-e79ddb167c32</ID>
+      <zIndex>20</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Fluid_Boundary.PressureBoundary</ItemType>
+      <Left>257.73360764008561</Left>
+      <Top>460.43398017177987</Top>
+      <Width>101.6336</Width>
+      <Height>69.333360000000013</Height>
+      <ID>dd1cf51e-9e4e-40e7-a716-8a480fe48550</ID>
+      <zIndex>21</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Fluid_Boundary.Mass_Flow_Reservoir.MassFlowSink</ItemType>
+      <Left>781.83800764008549</Left>
+      <Top>479.19816460212462</Top>
+      <Width>97.4248</Width>
+      <Height>34.183440000000004</Height>
+      <ID>fd653b0a-c896-46c8-97fc-ff808982968e</ID>
+      <zIndex>22</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+    <DesignerItem>
+      <ItemType>FlowNetMaster.GUI.DataModel.Components.Fluid.Conduits.Pipe.Pipe</ItemType>
+      <Left>512.33580764008536</Left>
+      <Top>453.43398017177987</Top>
+      <Width>136.5336</Width>
+      <Height>37.33336</Height>
+      <ID>658ea673-32d7-447d-97eb-4cdd28399258</ID>
+      <zIndex>23</zIndex>
+      <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+      <TransformMaxrix>1,0,0,1,0,5.55111512312578E-17</TransformMaxrix>
+    </DesignerItem>
+  </DesignerItems>
+  <Connections>
+    <Connection>
+      <ConnectionType>FlowNetMaster.GUI.DataModel.Connection.FluidConnection</ConnectionType>
+      <JunctionPoint />
+      <zIndex>22</zIndex>
+      <Connector>
+        <ParentId>ce3bfc9c-224c-4123-ba6c-1e4437a421b2</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Connector>
+        <ParentId>8ec7b761-d163-48f6-a5e7-a6db4b1e3cde</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Elevation>0 m</Elevation>
+    </Connection>
+    <Connection>
+      <ConnectionType>FlowNetMaster.GUI.DataModel.Connection.FluidConnection</ConnectionType>
+      <JunctionPoint />
+      <zIndex>23</zIndex>
+      <Connector>
+        <ParentId>b2f0b4f9-2cf1-499e-a2b3-f948f8dc6eff</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Connector>
+        <ParentId>8ec7b761-d163-48f6-a5e7-a6db4b1e3cde</ParentId>
+        <Name>Connector2</Name>
+      </Connector>
+      <Elevation>0 m</Elevation>
+    </Connection>
+    <Connection>
+      <ConnectionType>FlowNetMaster.GUI.DataModel.Connection.FluidConnection</ConnectionType>
+      <JunctionPoint />
+      <zIndex>0</zIndex>
+      <Connector>
+        <ParentId>11ec4b15-38b8-4b3e-89c8-69bb9eacf5ba</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Connector>
+        <ParentId>527a9504-cb65-4d94-9a11-e79ddb167c32</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Elevation>0 m</Elevation>
+    </Connection>
+    <Connection>
+      <ConnectionType>FlowNetMaster.GUI.DataModel.Connection.FluidConnection</ConnectionType>
+      <JunctionPoint />
+      <zIndex>0</zIndex>
+      <Connector>
+        <ParentId>ab46438e-5ba0-424d-b0e2-9bb1834b8bfd</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Connector>
+        <ParentId>527a9504-cb65-4d94-9a11-e79ddb167c32</ParentId>
+        <Name>Connector2</Name>
+      </Connector>
+      <Elevation>0 m</Elevation>
+    </Connection>
+    <Connection>
+      <ConnectionType>FlowNetMaster.GUI.DataModel.Connection.FluidConnection</ConnectionType>
+      <JunctionPoint />
+      <zIndex>22</zIndex>
+      <Connector>
+        <ParentId>dd1cf51e-9e4e-40e7-a716-8a480fe48550</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Connector>
+        <ParentId>658ea673-32d7-447d-97eb-4cdd28399258</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Elevation>0 m</Elevation>
+    </Connection>
+    <Connection>
+      <ConnectionType>FlowNetMaster.GUI.DataModel.Connection.FluidConnection</ConnectionType>
+      <JunctionPoint />
+      <zIndex>23</zIndex>
+      <Connector>
+        <ParentId>fd653b0a-c896-46c8-97fc-ff808982968e</ParentId>
+        <Name>Connector1</Name>
+      </Connector>
+      <Connector>
+        <ParentId>658ea673-32d7-447d-97eb-4cdd28399258</ParentId>
+        <Name>Connector2</Name>
+      </Connector>
+      <Elevation>0 m</Elevation>
+    </Connection>
+  </Connections>
+  <NodeProperties>
+    <PressureBoundary>
+      <ID>ce3bfc9c-224c-4123-ba6c-1e4437a421b2</ID>
+      <Name>Pressure Boundary 1</Name>
+      <Notes></Notes>
+      <Tooltip>Pressure Boundary 1</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.PressureSource</Name>
+        <DisplayedName>Pressure Boundary 1</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Pressure</Name>
+            <Value>0.1 MPa</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Temperature</Name>
+            <Value>288.15 K</Value>
+          </Parameter>
+        </Parameters>
+        <Fluid>
+          <Name>Water</Name>
+          <Temperature>288.15 K</Temperature>
+          <Pressure>0.1 MPa</Pressure>
+          <MassFraction>0</MassFraction>
+        </Fluid>
+      </Node>
+    </PressureBoundary>
+    <MassFlowSink>
+      <ID>b2f0b4f9-2cf1-499e-a2b3-f948f8dc6eff</ID>
+      <Name>Mass Flow Sink 1</Name>
+      <Notes></Notes>
+      <Tooltip>Mass Flow Sink 1</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>-1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.MassFlowReservoir</Name>
+        <DisplayedName>Mass Flow Sink 1</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Temperature</Name>
+            <Value>300 K</Value>
+          </Parameter>
+        </Parameters>
+        <Fluid>
+          <Name>Water</Name>
+          <Temperature>288.15 K</Temperature>
+          <Pressure>0.1 MPa</Pressure>
+          <MassFraction>0</MassFraction>
+        </Fluid>
+        <MassFlow>-1 kg/s</MassFlow>
+      </Node>
+    </MassFlowSink>
+    <Pipe>
+      <ID>8ec7b761-d163-48f6-a5e7-a6db4b1e3cde</ID>
+      <Name>Pipe 1</Name>
+      <Notes></Notes>
+      <Tooltip>Pipe 1
+Length
+Pressure Drop</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <Port1Name>P2</Port1Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>-1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P2 - Mass Flow Rate</Label>
+          <Value>1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P2 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.Pipe</Name>
+        <DisplayedName>Pipe 1</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Roughness</Name>
+            <Value>0.0015 mm</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Length</Name>
+            <Value>40 m</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Inner Diameter</Name>
+            <Value>35.56 mm</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Outer Diameter</Name>
+            <Value>0 m</Value>
+          </Parameter>
+        </Parameters>
+      </Node>
+      <MaterialName>HDPE</MaterialName>
+      <ScheduleCode> SDR 13.5</ScheduleCode>
+      <NominalSize>1-1/4"</NominalSize>
+    </Pipe>
+    <PressureBoundary>
+      <ID>11ec4b15-38b8-4b3e-89c8-69bb9eacf5ba</ID>
+      <Name>Pressure Boundary 2</Name>
+      <Notes></Notes>
+      <Tooltip>Pressure Boundary 2</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.PressureSource</Name>
+        <DisplayedName>Pressure Boundary 2</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Pressure</Name>
+            <Value>0.1 MPa</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Temperature</Name>
+            <Value>288.15 K</Value>
+          </Parameter>
+        </Parameters>
+        <Fluid>
+          <Name>Water</Name>
+          <Temperature>288.15 K</Temperature>
+          <Pressure>0.1 MPa</Pressure>
+          <MassFraction>0</MassFraction>
+        </Fluid>
+      </Node>
+    </PressureBoundary>
+    <MassFlowSink>
+      <ID>ab46438e-5ba0-424d-b0e2-9bb1834b8bfd</ID>
+      <Name>Mass Flow Sink 2</Name>
+      <Notes></Notes>
+      <Tooltip>Mass Flow Sink 2</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>-1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.MassFlowReservoir</Name>
+        <DisplayedName>Mass Flow Sink 2</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Temperature</Name>
+            <Value>300 K</Value>
+          </Parameter>
+        </Parameters>
+        <Fluid>
+          <Name>Water</Name>
+          <Temperature>288.15 K</Temperature>
+          <Pressure>0.1 MPa</Pressure>
+          <MassFraction>0</MassFraction>
+        </Fluid>
+        <MassFlow>-1 kg/s</MassFlow>
+      </Node>
+    </MassFlowSink>
+    <Pipe>
+      <ID>527a9504-cb65-4d94-9a11-e79ddb167c32</ID>
+      <Name>Pipe 2</Name>
+      <Notes></Notes>
+      <Tooltip>Pipe 2
+Length
+Pressure Drop</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <Port1Name>P2</Port1Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>-1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P2 - Mass Flow Rate</Label>
+          <Value>1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P2 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.Pipe</Name>
+        <DisplayedName>Pipe 2</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Roughness</Name>
+            <Value>0.0015 mm</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Length</Name>
+            <Value>40 m</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Inner Diameter</Name>
+            <Value>35.56 mm</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Outer Diameter</Name>
+            <Value>0 m</Value>
+          </Parameter>
+        </Parameters>
+      </Node>
+      <MaterialName>HDPE</MaterialName>
+      <ScheduleCode> SDR 13.5</ScheduleCode>
+      <NominalSize>1-1/4"</NominalSize>
+    </Pipe>
+    <PressureBoundary>
+      <ID>dd1cf51e-9e4e-40e7-a716-8a480fe48550</ID>
+      <Name>Pressure Boundary 3</Name>
+      <Notes></Notes>
+      <Tooltip>Pressure Boundary 3</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.PressureSource</Name>
+        <DisplayedName>Pressure Boundary 3</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Pressure</Name>
+            <Value>0.1 MPa</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Temperature</Name>
+            <Value>288.15 K</Value>
+          </Parameter>
+        </Parameters>
+        <Fluid>
+          <Name>Water</Name>
+          <Temperature>288.15 K</Temperature>
+          <Pressure>0.1 MPa</Pressure>
+          <MassFraction>0</MassFraction>
+        </Fluid>
+      </Node>
+    </PressureBoundary>
+    <MassFlowSink>
+      <ID>fd653b0a-c896-46c8-97fc-ff808982968e</ID>
+      <Name>Mass Flow Sink 3</Name>
+      <Notes></Notes>
+      <Tooltip>Mass Flow Sink 3</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>-1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.MassFlowReservoir</Name>
+        <DisplayedName>Mass Flow Sink 3</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Temperature</Name>
+            <Value>300 K</Value>
+          </Parameter>
+        </Parameters>
+        <Fluid>
+          <Name>Water</Name>
+          <Temperature>288.15 K</Temperature>
+          <Pressure>0.1 MPa</Pressure>
+          <MassFraction>0</MassFraction>
+        </Fluid>
+        <MassFlow>-1 kg/s</MassFlow>
+      </Node>
+    </MassFlowSink>
+    <Pipe>
+      <ID>658ea673-32d7-447d-97eb-4cdd28399258</ID>
+      <Name>Pipe 3</Name>
+      <Notes></Notes>
+      <Tooltip>Pipe 3
+Length
+Pressure Drop</Tooltip>
+      <IsComment>false</IsComment>
+      <Port0Name>P1</Port0Name>
+      <Port1Name>P2</Port1Name>
+      <InitialCondutions>
+        <InitialCondution>
+          <Label>P1 - Mass Flow Rate</Label>
+          <Value>-1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P1 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P2 - Mass Flow Rate</Label>
+          <Value>1 kg/s</Value>
+        </InitialCondution>
+        <InitialCondution>
+          <Label>P2 - Pressure</Label>
+          <Value>0.1 MPa</Value>
+        </InitialCondution>
+      </InitialCondutions>
+      <Node>
+        <Name>FlowNetMaster.Core.Node.Fluid.Pipe</Name>
+        <DisplayedName>Pipe 3</DisplayedName>
+        <Library>Fluid</Library>
+        <Parameters>
+          <Parameter>
+            <Name>Roughness</Name>
+            <Value>0.0015 mm</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Length</Name>
+            <Value>40 m</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Inner Diameter</Name>
+            <Value>35.56 mm</Value>
+          </Parameter>
+          <Parameter>
+            <Name>Outer Diameter</Name>
+            <Value>0 m</Value>
+          </Parameter>
+        </Parameters>
+      </Node>
+      <MaterialName>HDPE</MaterialName>
+      <ScheduleCode> SDR 13.5</ScheduleCode>
+      <NominalSize>1-1/4"</NominalSize>
+    </Pipe>
+  </NodeProperties>
+</Root>
